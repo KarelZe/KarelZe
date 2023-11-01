@@ -2,7 +2,7 @@
 
 I'm passionate about machine learning and quantitative finance. I like to write readable and performant code.🚀
 
-At the moment, I'm primarily focused on developing fraud-detection solutions at [Atruvia](https://atruvia.de/). I'm also pursuing a master's degree at KIT. You can find most of my projects listed on [edu.markusbilz.com](https://edu.markusbilz.com/).
+At the moment, I'm developing fraud-detection solutions at [Atruvia](https://atruvia.de/). I'm also pursuing a master's degree at KIT. You can find most of my uni projects listed on [edu.markusbilz.com](https://edu.markusbilz.com/).
 
 You can connect with me on:
 * [🏪LinkedIn](https://www.linkedin.com/in/markus-bilz/)
