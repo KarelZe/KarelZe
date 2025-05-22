@@ -1,8 +1,8 @@
 ### Hi there I'm @KarelZe (Markus Bilz)👋
 
-I'm passionate about machine learning and quantitative finance. I like to write readable and performant code.🚀
+I'm passionate about machine learning and deep learning, currently focusing on vision-language models and synthetic data generation. My goal is always readable, performant code.🚀
 
-I graduated from KIT. At the moment, I'm developing document ai solutions at [Atruvia](https://atruvia.de/).
+After graduating from KIT, I joined Atruvia to develop document AI solutions.
 
 You can connect with me on:
 * [🏪LinkedIn](https://www.linkedin.com/in/markus-bilz/)
