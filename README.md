@@ -1,4 +1,6 @@
-### Hi there I'm @KarelZe (Markus Bilz)👋
+### Howdy, I'm @KarelZe (Markus Bilz)👋
+
+![](img/sponge_bob_howdy.gif)
 
 I'm passionate about machine learning and deep learning, currently focusing on vision-language models and synthetic data generation. My goal is always readable, performant code.🚀
 
